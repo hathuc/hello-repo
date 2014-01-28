@@ -1,1 +1,4 @@
+this is the local branch copy
+..
+
 howdy remote repo
